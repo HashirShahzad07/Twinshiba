@@ -1,0 +1,792 @@
+Uri: https://katsumi.kishimotoinu.com/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\index.htm
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/plainlogo.png
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\plainlogo.png
+Content Type: image/png
+
+Uri: https://katsumi.kishimotoinu.com/assets/css/vendor.bundle27b2.css?ver=1931
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\css\vendor.bundle27b2.css
+Content Type: text/css
+
+Uri: https://katsumi.kishimotoinu.com/assets/css/style-azalea40a3.css?ver=1932
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\css\style-azalea40a3.css
+Content Type: text/css
+
+Uri: https://katsumi.kishimotoinu.com/assets/css/theme27b2.css?ver=1931
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\css\theme27b2.css
+Content Type: text/css
+
+Uri: https://katsumi.kishimotoinu.com/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\index.html
+Content Type: text/html
+
+Uri: https://twitter.com/kishimotoinu
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\kishimotoinu.html
+Content Type: text/html
+
+Uri: https://app.uniswap.org/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\index-1.htm
+Content Type: text/html
+
+Uri: https://discord.com/invite/kishimoto
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\invite\kishimoto.html
+Content Type: text/html
+
+Uri: https://0.plus/Kishimoto_China
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\Kishimoto_China.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/namelogo.png
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\namelogo.png
+Content Type: image/png
+
+Uri: https://katsumi.kishimotoinu.com/logo.png
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\logo.png
+Content Type: image/png
+
+Uri: https://katsumi.kishimotoinu.com/Katana.webp
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\Katana.webp
+Content Type: image/webp
+
+Uri: https://katsumi.kishimotoinu.com/Pagoda.webp
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\Pagoda.webp
+Content Type: image/webp
+
+Uri: https://katsumi.kishimotoinu.com/Japanese Sensu.webp
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\Japanese Sensu.webp
+Content Type: image/webp
+
+Uri: https://katsumi.kishimotoinu.com/globe-particle.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\globe-particle.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/kishi.png
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\kishi.png
+Content Type: image/png
+
+Uri: https://katsumi.kishimotoinu.com/assets/js/jquery.bundle0643.js?ver=1950
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\js\jquery.bundle0643.js
+Content Type: application/javascript
+
+Uri: https://katsumi.kishimotoinu.com/assets/js/scripts0643.js?ver=1950
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\js\scripts0643.js
+Content Type: application/javascript
+
+Uri: https://katsumi.kishimotoinu.com/assets/js/charts0643.js?ver=1950
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\js\charts0643.js
+Content Type: application/javascript
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-brands-400d41d.eot?
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-brands-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-regular-400d41d.eot?
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-regular-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-solid-900d41d.eot?
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-solid-900d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://katsumi.kishimotoinu.com/assets/css/owl.video.play.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\css\owl.video.play.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Ikon-Crypto9015.ttf?h952os
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Ikon-Crypto9015.ttf
+Content Type: font/ttf
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Ikon-Crypto9015.woff?h952os
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Ikon-Crypto9015.woff
+Content Type: font/woff
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Ikon-Crypto9015.svg?h952os
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Ikon-Crypto9015.svg
+Content Type: image/svg+xml
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/themify.eot
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/themifyd41d.eot?
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\themifyd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/themifyd41d.svg?
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\themifyd41d.svg
+Content Type: image/svg+xml
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/sort_both.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\sort_both.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/sort_asc.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\sort_asc.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/sort_desc.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\sort_desc.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/sort_asc_disabled.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\sort_asc_disabled.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/sort_desc_disabled.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\sort_desc_disabled.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/css/fonts/flexslider-icon.eot/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\css\fonts\flexslider-icon.eot\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/css/fonts/flexslider-icon.eot/index.html?
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\css\fonts\flexslider-icon.eot\index-1.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/css/fonts/flexslider-icon.woff/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\css\fonts\flexslider-icon.woff\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/css/fonts/flexslider-icon.ttf/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\css\fonts\flexslider-icon.ttf\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/css/fonts/flexslider-icon.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\css\fonts\flexslider-icon.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Light.eot
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Lightd41d.eot?
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Lightd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Light.woff2
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Light.woff2
+Content Type: font/woff2
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Light.woff
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Light.woff
+Content Type: font/woff
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Light.ttf
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Light.ttf
+Content Type: font/ttf
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Regular.eot
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Regulard41d.eot?
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Regular.woff2
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Regular.woff
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Regular.woff
+Content Type: font/woff
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Regular.ttf
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Medium.eot
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Mediumd41d.eot?
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Mediumd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Medium.woff2
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Medium.woff
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Medium.woff
+Content Type: font/woff
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Medium.ttf
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Bold.eot
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Boldd41d.eot?
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Boldd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Bold.woff2
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Bold.woff
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Bold.woff
+Content Type: font/woff
+
+Uri: https://katsumi.kishimotoinu.com/assets/fonts/Roboto-Bold.ttf
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\fonts\Roboto-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://katsumi.kishimotoinu.com/Japanese.ttf
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\Japanese.ttf
+Content Type: font/ttf
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-a.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-a.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-a.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-a.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-a-md.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-a-md.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-a-md.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-a-md.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-a-dark.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-a-dark.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-a-dark.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-a-dark.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-line.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-line.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-line.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-line.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-b.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-b.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-b.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-b.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-c.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-c.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-c.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-c.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-c-light.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-c-light.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-c-light.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-c-light.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-c-dark.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-c-dark.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-c-dark.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-c-dark.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-d.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-d.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-d.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-d.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-d2.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-d2.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-d2.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-d2.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-e.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-e.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-e.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-e.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-f.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-f.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-f.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-f.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-f-footer.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-f-footer.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-f-footer.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-f-footer.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-a.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-a.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-a-sm.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-a-sm.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-b.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-b.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-b-sm.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-b-sm.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-c.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-c.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-c-sm.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-c-sm.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-d.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-d.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-d-sm.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-d-sm.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-e.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-e.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-e-sm.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-e-sm.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-f.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-f.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-f-sm.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-f-sm.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-g.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-g.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-g-sm.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-g-sm.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-h.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-h.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-h-sm.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-h-sm.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-i.png
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-i.png
+Content Type: image/png
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-i-sm.png
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-i-sm.png
+Content Type: image/png
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-m.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-m.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-n.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-n.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-o.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-o.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-p.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-p.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-q.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-q.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-r.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-r.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-s.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-s.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-s-sm.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-s-sm.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-t.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-t.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-u.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-u.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-v.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-v.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-w.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-w.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-x.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-x.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-x-2.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-x-2.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-x-3.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-x-3.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-y.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-y.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-z.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-z.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-z2.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-z2.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-a2.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-a2.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-z3.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-z3.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-z4.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-z4.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-z6.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-z6.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-z6-sm.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-z6-sm.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/shape-z7.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\shape-z7.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/dot-a.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\dot-a.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/dot-b.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\dot-b.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/ui-shape-a.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\ui-shape-a.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/ui-shape-b.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\ui-shape-b.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/ui-shape-light-a.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\ui-shape-light-a.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/ui-shape-light-b.svg/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\ui-shape-light-b.svg\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-line-a.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-line-a.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-line-b.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-line-b.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-line-c.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-line-c.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/mask-line-d.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\mask-line-d.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/polygon-line-a.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\polygon-line-a.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/polygon-line-b.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\polygon-line-b.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/polygon-line-a-fill.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\polygon-line-a-fill.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/polygon-line-c.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\polygon-line-c.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/polygon-fill.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\polygon-fill.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/dot-c-azalea.png
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\dot-c-azalea.png
+Content Type: image/png
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/light-ix.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\light-ix.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/line.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\line.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/hexagon.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\hexagon.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/polygon-a-dark.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\polygon-a-dark.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/assets/images/polygon-a-light.png/index.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\assets\images\polygon-a-light.png\index.html
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/uniswap.svg
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\uniswap.svg
+Content Type: image/svg+xml
+
+Uri: https://etherscan.io/error?e=5&t=ADDDDRESSSSS
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\error.html
+Content Type: text/html
+
+Uri: https://www.leosstaking.com/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\index-2.htm
+Content Type: text/html
+
+Uri: https://katsumi.kishimotoinu.com/branding/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\branding\index.htm
+Content Type: text/html
+
+Uri: https://dex.leonicornswap.com/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\index-3.htm
+Content Type: text/html
+
+Uri: https://hacken.io/audits/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\audits\index.htm
+Content Type: text/html
+
+Uri: https://www.bibox.com/en/exchange/basic/LEOS_USDT
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\en\exchange\basic\LEOS_USDT.html
+Content Type: text/html
+
+Uri: https://www.cointiger.com/en-us/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\en-us\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/swapleonicorn
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\swapleonicorn.html
+Content Type: text/html
+
+Uri: https://swapleonicorn.medium.com/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCvysAHfztJtwsqUeueAd35Q
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\channel\UCvysAHfztJtwsqUeueAd35Q.html
+Content Type: text/html
+
+Uri: https://github.com/Leonicornswap
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\Leonicornswap.html
+Content Type: text/html
+
+Uri: https://0.plus/leonicornswapchinese
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\leonicornswapchinese.html
+Content Type: text/html
+
+Uri: https://twitter.com/mofassairhsn
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\mofassairhsn.html
+Content Type: text/html
+
+Uri: https://twitter.com/ScottLEOWarrior
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\ScottLEOWarrior.html
+Content Type: text/html
+
+Uri: https://twitter.com/LinuxchipC
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\LinuxchipC.html
+Content Type: text/html
+
+Uri: https://twitter.com/drbelkin1
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\drbelkin1.html
+Content Type: text/html
+
+Uri: https://bscscan.com/token/0x2c8368f8f474ed9af49b87eac77061beb986c2f1
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\token\0x2c8368f8f474ed9af49b87eac77061beb986c2f1.html
+Content Type: text/html
+
+Uri: https://markets.businessinsider.com/news/stocks/leonicorn-swap-the-latest-advanced-amm-in-the-market-1030538202
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\news\stocks\leonicorn-swap-the-latest-advanced-amm-in-the-market-1030538202.html
+Content Type: text/html
+
+Uri: https://finance.yahoo.com/finance/news/bep20-address-preparation-leonicorn-swap-110700975.html
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\finance\news\bep20-address-preparation-leonicorn-swap-110700975.html
+Content Type: text/html
+
+Uri: https://news.bitcoin.com/leonicorn-swap-token-leos-is-now-trading-on-bitmart/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\leonicorn-swap-token-leos-is-now-trading-on-bitmart\index.htm
+Content Type: text/html
+
+Uri: https://www.benzinga.com/pressreleases/21/06/g21734436/how-to-get-bep20-address-in-preparation-for-the-leonicorn-swap-public-sale
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\pressreleases\21\06\g21734436\how-to-get-bep20-address-in-preparation-for-the-leonicorn-swap-public-sale.html
+Content Type: text/html
+
+Uri: https://bitcoinist.com/leonicorn-swap-growing-ecosystem/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\leonicorn-swap-growing-ecosystem\index.htm
+Content Type: text/html
+
+Uri: https://ambcrypto.com/leonicorn-swap-to-launch-a-viral-campaign/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\leonicorn-swap-to-launch-a-viral-campaign\index.htm
+Content Type: text/html
+
+Uri: https://www.newsbtc.com/press-releases/leonicorn-swap-release-its-whitepaper-v1-0/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\press-releases\leonicorn-swap-release-its-whitepaper-v1-0\index.htm
+Content Type: text/html
+
+Uri: https://techbullion.com/leonicorn-swap-giveaways-find-them-on-twitter-and-the-lottery-system/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\leonicorn-swap-giveaways-find-them-on-twitter-and-the-lottery-system\index.htm
+Content Type: text/html
+
+Uri: https://www.certik.com/projects/leonicornswap
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\projects\leonicornswap.html
+Content Type: text/html
+
+Uri: https://pancakeswap.finance/info/token/0x2c8368f8f474ed9af49b87eac77061beb986c2f1
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\info\token\0x2c8368f8f474ed9af49b87eac77061beb986c2f1.html
+Content Type: text/html
+
+Uri: https://www.bitmart.com/trade/en?symbol=LEOS_USDT&layout=basic
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\trade\en.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/leonicornswap/
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\leonicornswap\index.htm
+Content Type: text/html
+
+Uri: https://discord.com/invite/bG9RqyGKwE
+File Name: C:\Downloaded Web Sites\katsumi.kishimotoinu.com\invite\bG9RqyGKwE.html
+Content Type: text/html
+
