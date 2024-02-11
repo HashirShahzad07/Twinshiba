@@ -101,7 +101,7 @@
   font-family: "Quicksand";
   src: url("../../Japanese.ttf") format("truetype");
   background-color: #323a40;
-  background-image: linear-gradient(315deg, #000000 0%, #8D521A
+  background-image: linear-gradient(315deg, #000000 0%, #E69D4E
   74%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -127,7 +127,7 @@ a.btok:hover em {
 html,
 body {
   font-family: "Roboto", sans-serif;
-  color: #fff;
+  color: #ffffff;
   font-size: 14px;
   line-height: 1.6;
   font-weight: 400;
@@ -207,8 +207,7 @@ h6,
   margin-bottom: 0.5rem;
   letter-spacing: 2px;
   background-color: #343c43;
-  background-image: linear-gradient(315deg, #0a1015 0%, #8D521A
- 74%);
+  background-image: linear-gradient(146deg, rgba(230,157,78,1) 16%, rgba(255,243,205,1) 57%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -290,7 +289,7 @@ a:hover,
 a:focus,
 a:active {
   outline: 0;
-  color: #8D521A
+  color: #E69D4E
 ;
 }
 
@@ -1339,7 +1338,7 @@ h6,
 
 .tc-base-white-hover,
 .tc-light a:not(.btn):not([class*="link-"]):hover {
-  color: #8D521A
+  color: #E69D4E
 ;
 }
 
@@ -1364,12 +1363,12 @@ h6,
 
 .tc-secondary,
 .tc-secondary a {
-  color: #8D521A
+  color: #E69D4E
  !important;
 }
 
 .tc-secondary a:hover {
-  color: #8D521A
+  color: #E69D4E
  !important;
 }
 
@@ -1409,7 +1408,7 @@ h6,
 }
 
 .tc-light-alt a:not(.btn):not([class*="link-"]):hover {
-  color: #8D521A
+  color: #E69D4E
  !important;
 }
 
@@ -4411,7 +4410,7 @@ hr {
 }
 
 .alert-primary {
-  color: #8D521A
+  color: #E69D4E
 ;
   background: #fccad3;
 }
@@ -4525,7 +4524,7 @@ hr {
   color: #fff;
   min-width: 120px;
   max-width: 100%;
-  border: 2px solid #8D521A
+  border: 2px solid #E69D4E
 ;
   box-sizing: border-box;
   transition: all 0.5s;
@@ -4549,7 +4548,7 @@ hr {
 
 .btn-grad {
   border: none;
-  background-image: linear-gradient(to right, #000000 0%, #8D521A
+  background-image: linear-gradient(to right, #000000 0%, #E69D4E
  100%);
 }
 
@@ -8994,7 +8993,7 @@ ul.progress-info {
   left: 0;
   bottom: 0;
   right: 0;
-  border-top-color: #8D521A
+  border-top-color: #E69D4E
 ;
   border-right-color: #fff;
   animation: rotatecw 30s linear infinite 0s;
@@ -9981,7 +9980,7 @@ ul.progress-info {
   color: #fff !important;
   background: transparent;
   border: 2px solid !important;
-  border-color: #8D521A
+  border-color: #E69D4E
   !important;
 }
 
@@ -9993,16 +9992,16 @@ ul.progress-info {
 
 .tab-nav-btn-bdr-s2 li a:hover,
 .tab-nav-btn-bdr-s2 li a.active {
-  color: #8D521A
+  color: #E69D4E
  !important;
   background: transparent;
-  border-color: #8D521A
+  border-color: #E69D4E
  !important;
 }
 
 .tc-light .tab-nav-btn-bdr-s2 li a:hover,
 .tc-light .tab-nav-btn-bdr-s2 li a.active {
-  color: #8D521A
+  color: #E69D4E
  !important;
   background: transparent;
   border-color: #fff !important;
@@ -13019,7 +13018,7 @@ hr + .nk-block {
     bottom: 0;
     width: 2px;
     height: 95px;
-    background: #8D521A
+    background: #E69D4E
 ;
     border-radius: 2px;
   }
@@ -13032,7 +13031,7 @@ hr + .nk-block {
     height: 16px;
     border-radius: 50%;
     border: 2px solid #dbe4f7;
-    background: #8D521A
+    background: #E69D4E
 ;
   }
   .tc-light .feature-s6:after {
@@ -13407,14 +13406,14 @@ hr + .nk-block {
 
 .roadmap-s2.roadmap-finished:after,
 .roadmap-s2.roadmap-running:after {
-  background: #8D521A
+  background: #E69D4E
 ;
   border: 2px solid #fff;
 }
 
 .tc-light .roadmap-s2.roadmap-finished:after,
 .tc-light .roadmap-s2.roadmap-running:after {
-  background: #8D521A
+  background: #E69D4E
 ;
   border-color: #fff;
 }
@@ -19101,13 +19100,13 @@ hr + .nk-block {
 
 .menu-item a .active,
 .menu-item a:hover {
-  color: #8D521A
+  color: #E69D4E
 ;
 }
 
 .is-dark .menu-item a .active,
 .is-dark .menu-item a:hover {
-  color: #8D521A
+  color: #E69D4E
 ;
 }
 
@@ -19164,7 +19163,7 @@ hr + .nk-block {
 }
 
 .menu-item > a.active {
-  color: #8D521A
+  color: #E69D4E
 ;
 }
 
@@ -20897,18 +20896,18 @@ hr + .nk-block {
   align-items: center;
   justify-content: center;
   height: 48px;
-  color: #8D521A
+  color: #E69D4E
 ;
   background: transparent;
   border-radius: 48px;
-  border: 2px solid #8D521A
+  border: 2px solid #E69D4E
 ;
 }
 
 .banner-btn-group .btn:hover {
-  color: #8D521A
+  color: #E69D4E
 ;
-  background: #8D521A
+  background: #E69D4E
 ;
 }
 
@@ -20919,12 +20918,12 @@ hr + .nk-block {
 }
 
 .banner-btn-group .btn.wp-btn:hover {
-  background: #8D521A
+  background: #E69D4E
 ;
 }
 
 .banner-btn-group .btn.audit-btn {
-  color: #8D521A
+  color: #E69D4E
 ;
   background: #000;
   border: solid 2px white;
